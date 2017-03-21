@@ -10,6 +10,7 @@
 using namespace std;
 
 void ramaSecreta();
+void segundaRamaSecreta();
 
 int main() {
 	
@@ -23,4 +24,8 @@ void ramaSecreta (){
 	
 	cout << "Rama secreta \n" ;
 	
+}
+
+void segundaRamaSecreta(){
+	cout << "Segunda rama secreta \n" ; 
 }
