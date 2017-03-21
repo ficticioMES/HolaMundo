@@ -9,10 +9,18 @@
 #include <iostream>
 using namespace std;
 
+void ramaSecreta();
+
 int main() {
-<<<<<<< HEAD
+	
 	cout << "!!!Hello World!!!" << endl; // Cambio en comentario 1
-	cout << “ Hola Mundo!!” << endl;
+	cout << " Hola Mundo!! " << endl;
 	cout << "Bon jour!!!" << endl;
 	return 0;
+}
+
+void ramaSecreta (){
+	
+	cout << "Rama secreta \n" ;
+	
 }
