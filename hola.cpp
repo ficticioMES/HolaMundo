@@ -29,5 +29,6 @@ void ramaSecreta (){
 void segundaRamaSecreta(){
 	cout << "Segunda rama secreta \n" ;
 	cout << "Uno más uno son siete .... \n" ;
+	cout << "Siete más siete son veinte.... \n" ;
 	 
 }
