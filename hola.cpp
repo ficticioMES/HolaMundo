@@ -39,3 +39,9 @@ void ramaSecretaVersion1_0() {
 	cout << "Change in rama secreta v1.0 \n" ;	
 
 }
+
+void ramaSecretaVersion2_0() {
+	cout << "Rama secreta v2.0 \n" ;	
+	cout << "Change in rama secreta v2.0 \n" ;	
+
+}
