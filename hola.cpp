@@ -11,6 +11,7 @@ using namespace std;
 
 void ramaSecreta();
 void segundaRamaSecreta();
+void ramaSecretaVersion1_0();
 
 int main() {
 	
@@ -31,4 +32,8 @@ void segundaRamaSecreta(){
 	cout << "Uno más uno son siete .... \n" ;
 	cout << "Siete más siete son veinte.... \n" ;
 	 
+}
+void ramaSecretaVersion1_0() {
+	cout << "Rama secreta v1.0 \n" ;	
+	
 }
