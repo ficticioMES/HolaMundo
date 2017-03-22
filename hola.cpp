@@ -12,6 +12,7 @@ using namespace std;
 void ramaSecreta();
 void segundaRamaSecreta();
 void ramaSecretaVersion1_0();
+void ramaSecretaVersion2_0();
 
 int main() {
 	
@@ -36,6 +37,5 @@ void segundaRamaSecreta(){
 void ramaSecretaVersion1_0() {
 	cout << "Rama secreta v1.0 \n" ;	
 	cout << "Change in rama secreta v1.0 \n" ;	
-	
-	
+
 }
